@@ -1,0 +1,12 @@
+How To Play:-
+
+1) Move your mouse to play the game.
+
+2) You are representing the left player. Defeat the computer to win thw game.
+
+3) Hit the ball every time it comes to you. If you miss the ball, computer will get a point, and if computer misses the ball, you will get a point.
+
+4) The player who reaches 3 points first, will be declared as winner.
+
+
+--------------------------------------------------ALL THE BEST!!!!---------------------------------------------------------------

@@ -1,0 +1,12 @@
+canvas{
+    border: 2px solid red;
+    overflow: auto;
+    margin-left: 400px;
+    margin-top: 60px;
+    /* color: tomato; */
+}
+
+body{
+    /* color: red; */
+    background-color: rgb(175, 211, 224);
+}
